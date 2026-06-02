@@ -10,7 +10,10 @@
 
 ### About
 
-Fullstack developer comfortable across the stack — from low-level systems in C/C++ to web interfaces and databases. I like building things that work well and scale cleanly.
+Just really like to code. Backend and databases are where I spend most of my time.  Frontend too, when I have to. 
+
+Horse racing fan 
+
 
 ---
 
