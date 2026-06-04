@@ -45,22 +45,32 @@ Horse racing fan
 
 **Database & Tools**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
-### Language Usage
+### Stats & Activity
 
-> Across all repositories · forks excluded
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aisurii&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aisurii&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+</div>
 
-![C++](https://img.shields.io/badge/C++-47.2%25-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-27.4%25-239120?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-13.9%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-6.4%25-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3.4%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0.7%25-3776AB?style=flat-square&logo=python&logoColor=white)
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aisurii/Aisurii/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aisurii/Aisurii/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aisurii/Aisurii/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
