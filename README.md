@@ -73,7 +73,6 @@ Horse racing fan
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aisurii/Aisurii/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
----
 
 ### Contact
 
