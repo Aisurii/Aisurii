@@ -59,8 +59,8 @@ Horse racing fan
 
 <div align="center">
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aisurii&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/Aisurii)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aisurii&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/Aisurii)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aisurii&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&v=1)](https://github.com/Aisurii)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aisurii&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&v=1)](https://github.com/Aisurii)
 
 </div>
 
@@ -73,6 +73,8 @@ Horse racing fan
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aisurii/Aisurii/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+---
 
 ### Contact
 
