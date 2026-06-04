@@ -58,10 +58,7 @@ Horse racing fan
 ### Stats & Activity
 
 <div align="center">
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aisurii&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&v=1)](https://github.com/Aisurii)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aisurii&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&v=1)](https://github.com/Aisurii)
-
+  <img src="https://raw.githubusercontent.com/Aisurii/Aisurii/main/github-metrics.svg" alt="Metrics" width="800">
 </div>
 
 <br/>
