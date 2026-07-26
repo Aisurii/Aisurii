@@ -18,7 +18,7 @@ Horse racing fan
 
 </td><td valign="top" align="center" width="30%">
 
-<img src="https://github.com/user-attachments/assets/3459ac77-7635-47f4-a2b6-545073a94fc4" width="180" style="border-radius:10px" />
+<img src="horse.jpg" alt="Horse racing" width="180" />
 
 </td></tr></table>
 
